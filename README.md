@@ -3,7 +3,7 @@
 ---
 ### Professor: Robin Ball
 
-### Development Team: Alex Nakagawa [LEAD], TBD
+### Development Team: Alex Nakagawa, TBD
 
 This is the official repository of the MCB 32 at UC Berkeley. The assignments for each team member are listed below:
 
