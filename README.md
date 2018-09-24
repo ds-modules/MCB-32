@@ -11,8 +11,8 @@ The assignments for each team member are listed below:
 
 | Lab Number      | Dev. Name       | Rough Draft Due  | Status          |
 | :-------------: | :-------------: | :-------------:  | :-------------: |
-| 04              |  Alex Nakagawa  | September 17     | Started         |
-| 05              |                 | TODO             | N/A             |
-| 06              |                 | TODO             | N/A             |
-| 08              |                 | TODO             | N/A             |
-| 09              |                 | TODO             | N/A             |
+| 04              |  Alex Nakagawa  | September 17     | Final Complete  |
+| 05              |  Anna Nguyen    | September 27     | N/A             |
+| 06              |  Elaine Chien   | October 1        | N/A             |
+| 08              |  Samantha Yuhan | October 8        | N/A             |
+| 09              |  Jason Webb     | October 15       | N/A             |
