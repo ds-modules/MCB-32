@@ -1,5 +1,7 @@
 # MCB 32: Introduction to Human Physiology (Fall 2018)
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ds-modules/MCB-32/master)
+
 ---
 ### Professor: Robin Ball
 
@@ -12,7 +14,7 @@ The assignments for each team member are listed below:
 | Lab Number      | Dev. Name       | Rough Draft Due  | Status                 |
 | :-------------: | :-------------: | :-------------:  | :--------------------: |
 | 04              |  Alex Nakagawa  | September 17     | Final Complete         |
-| 05              |  Anna Nguyen    | September 27     | Rough Draft Submitted  |
+| 05              |  Anna Nguyen    | September 27     | Rough Draft Revised    |
 | 06              |  Samantha Yuhan | October 1        | N/A                    |
 | 08              |  Elaine Chien   | October 15       | N/A                    |
 | 09              |  Jason Webb     | October 22       | N/A                    |
