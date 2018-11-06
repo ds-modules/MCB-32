@@ -17,4 +17,4 @@ The assignments for each team member are listed below:
 | 05              |  Anna Nguyen    | September 27     | Final Complete         |
 | 06              |  Samantha Yuhan | October 1        | Rough Draft Submitted  |
 | 08              |  Elaine Chien   | October 15       | Final Complete         |
-| 09              |  Jason Webb     | October 22       | Rough Draft Submitted  |
+| 09              |  Jason Webb     | October 22       | Final Complete  |
