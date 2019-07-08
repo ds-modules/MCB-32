@@ -1,7 +1,7 @@
 # MCB 32: Introduction to Human Physiology (Fall 2018)
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ds-modules/MCB-32/master)
-[![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](http://datahub.berkeley.edu/user-redirect/interact?account=ds-modules&repo=MCB-32&branch=master&path=)
+[![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](http://datahub.berkeley.edu/user-redirect/interact?account=ds-modules&repo=MCB-32&branch=master&path=.)
 
 ---
 ### Professor: Robin Ball
