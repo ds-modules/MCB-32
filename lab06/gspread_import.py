@@ -10,5 +10,5 @@ creds = ServiceAccountCredentials.from_json_keyfile_dict(json.loads(os.environ['
 
 def get_spreadsheet(url, sheet_name):
     spread = Spread(creds, url)
-    sheet_df = spread.sheet_to_df(sheet=sheet_name)
+    sheet_df = spread.sheet_to_df(sheet=sheet_name, index=None)
     return Table.from_df(sheet_df)
