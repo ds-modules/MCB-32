@@ -18,7 +18,7 @@ def generate_grid(num_rows, num_cols, names, preset_values=None):
     global num_grids
     assert type(preset_values) == dict or preset_values == None, "preset_values must be a dict"
     create_table(num_rows, num_cols, names)
-    df = pd.read_csv("data/empty-grid-{}.csv".format(num_grids))
+    df = pd.read_csv("data/empty-grid-{}.csv".format(num_grids), index_col=None)
     if preset_values:
         for key in preset_values.keys():
             df[key] = preset_values[key]
