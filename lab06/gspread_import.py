@@ -1,5 +1,5 @@
 from datascience import *
-from gspread_pandas.client import Spread
+from gspread_pandas.spread import Spread
 import os
 import json
 from oauth2client.service_account import ServiceAccountCredentials
