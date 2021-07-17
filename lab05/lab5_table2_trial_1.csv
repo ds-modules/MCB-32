@@ -1,4 +1,4 @@
-﻿Contraction,Abs Int EMG,Dynamometer Voltage (V)
+﻿Contraction,Abs Integral EMG,Dynamometer Voltage (V)
 control,0.004,762
 1,0.014,780
 2,0.022,815
