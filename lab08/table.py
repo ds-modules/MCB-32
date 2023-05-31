@@ -2,6 +2,7 @@ import pandas as pd
 import ipywidgets as widgets
 import numpy as np
 from IPython.display import *
+from datascience import *
 
 # reference: https://link.jonathanferrari.com/table-widget.py
 
@@ -128,6 +129,14 @@ class Make:
         values = df.to_dict(orient="list")
         return Make.table(rows, cols, labels, values = values)
     
+def get_table(df):
+    for c in df.columns:
+        try:
+            df[c] = pd.to_numeric(df[c])
+        except:
+            continue
+    return Table.from_df(df)
+
 make_table = Make.table
 from_df = Make.from_df
     
