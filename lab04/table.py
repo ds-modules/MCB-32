@@ -138,6 +138,9 @@ def get_table(df):
     return Table.from_df(df)
 make_table = Make.table
 from_df = Make.from_df
-    
+
+def merge(table_1, table_2):
+    return Table.from_df(pd.concat([table_1.to_df(), table_2.to_df()], axis=1))
+
 # Sample
 # df = Make.table(5, 5,['id', 'age', 'height', "name", "weight"], ["integer", "integer", "decimal", "text", "decimal"])
